@@ -1,4 +1,5 @@
 **SkillBarter**
+
 SkillBarter is a web application that serves as a skill exchange platform for students. 
 Users can post skills they possess and skills they want to learn, enabling mutual learning and collaboration. 
 Additionally, the platform offers certified courses for users who cannot find skill-exchange partners or do not possess any skills to offer.
@@ -61,11 +62,22 @@ The project repository is available on GitHub. Since GitHub Pages does not suppo
 
 - Repository Structure
 
-SkillBarter/
+SkillBarter---Skill-Exchange-Website/
+
 ├── assets/         # Images, CSS, JavaScript files
-├── php/            # PHP backend files
+
+├── css/            # CSS files
+
+├── images/         # Image assets
+
+├── js/             # JavaScript files
+
 ├── sql/            # Database dump file
+
+├── php/            # PHP backend files
+
 ├── index.php       # Entry point of the application
+
 └── README.md       # Documentation file
 
 **Notes**
