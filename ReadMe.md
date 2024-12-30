@@ -64,21 +64,21 @@ The project repository is available on GitHub. Since GitHub Pages does not suppo
 
 SkillBarter/
 
-├── assets/         # Images, CSS, JavaScript files
+├── About/           # Contains the "About" page files
 
-├── css/            # CSS files
+├── Assets/          # Images, CSS, and JavaScript assets
 
-├── images/         # Image assets
+├── Courses/         # Files related to available courses
 
-├── js/             # JavaScript files
+├── HelpAndSupport/  # Help and support-related content
 
-├── sql/            # Database dump file
+├── Home Page/       # Files for the home page of the website
 
-├── php/            # PHP backend files
+├── Register/        # Registration-related files
 
-├── index.php       # Entry point of the application
+├── Service/         # Service-related files and modules
 
-└── README.md       # Documentation file
+└── ReadMe.md        # Documentation file
 
 **Notes**
 
