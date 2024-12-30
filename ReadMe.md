@@ -60,9 +60,9 @@ The project repository is available on GitHub. Since GitHub Pages does not suppo
 
 - Open the browser and navigate to http://localhost/SkillBarter.
 
-- Repository Structure
+**Repository Structure**
 
-SkillBarter---Skill-Exchange-Website/
+SkillBarter/
 
 ├── assets/         # Images, CSS, JavaScript files
 
